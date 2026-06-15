@@ -4,8 +4,8 @@ I am a 22-year-old embedded/systems developer from Porto, Portugal. I am very in
 
 I play games and listen to a lot of music in my spare time :)
 
-I don't have much social media but if you want to contact me:
+## Contacs
 
-LinkedIn: [Alfredo Ferreira](https://www.linkedin.com/in/alfredo-ferreira-2046032a3/)
+**LinkedIn**: [Alfredo Ferreira](https://www.linkedin.com/in/alfredo-ferreira-2046032a3/)
 
-Discord: `.dantemustdie`
+**Discord**: `.dantemustdie`
