@@ -7,4 +7,5 @@ I play games and listen to a lot of music in my spare time :)
 I don't have much social media but if you want to contact me:
 
 LinkedIn: [Alfredo Ferreira](https://www.linkedin.com/in/alfredo-ferreira-2046032a3/)
+
 Discord: `.dantemustdie`
